@@ -1,0 +1,5 @@
+Module 2:  Data Exploration and Visualization  
+Instructor: Anas Belouali, MS, MEng 
+Description: 
+This module provides recipes for exploratory data analysis and data visualization which are critical steps in any data science project. The goal of this module is to learn how to visualize and perform initial investigations of the data so as to discover patterns, spot anomalies, test hypothesis, and check assumptions with the help of summary statistics and graphical representations. We will using python to explore, filter, and manipulate the UCI diabetes dataset; identify data anomalies and missingness; learn how to impute missing data; identify highly correlated variables.
+Explore the Johns Hopkins University COVID-19 data repository and import the data and wrangle the data to look at the number of reported confirmed cases by country and regions; plot the number of reported confirmed cases and deaths by country. In addition, we will use the COVID-19 tracking project dataset to explore racial disparities in COVID-19 mortality and infections in the US. 
