@@ -1,0 +1,5 @@
+Module I: Foundations of Data Science with Python
+Instructor:  Prem Saggar, PhD
+Description:  
+This module will introduce you to the core principles of data science and python programming and associated libraries. You will understand what data science and AI can currently do. An overview of the state-of-the-art methods will be introduced and real -life examples from clinical data will be used for illustration. 
+
